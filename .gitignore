@@ -1,0 +1,16 @@
+### Python ###
+.idea/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+Netology/
+*.sqlite3
+env/
+/__pycache__
+file_server/
+### Project specific ###
+settings_local.py
+
+### OS specific ###
+.DS_Store
