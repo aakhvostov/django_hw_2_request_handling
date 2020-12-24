@@ -8,7 +8,6 @@ Netology/
 *.sqlite3
 env/
 /__pycache__
-file_server/
 ### Project specific ###
 settings_local.py
 
