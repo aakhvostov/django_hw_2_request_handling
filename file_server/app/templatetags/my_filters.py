@@ -7,4 +7,4 @@ register = template.Library()
 
 @register.filter
 def format_date(value):
-    return datetime.utcfromtimestamp(int(value)).strftime('%d-%m-%Y')
+    return datetime.utcfromtimestamp(int(value))

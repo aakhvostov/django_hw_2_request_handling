@@ -91,3 +91,5 @@ try:
     from .settings_local import *
 except ImportError:
     pass
+
+DAY_FORMAT = "%d-%m-%Y"
